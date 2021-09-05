@@ -1,8 +1,6 @@
 ## Welcome to THE X FORCE HALL OF PROJECTS!!!
 
-You can use the [editor on GitHub](https://github.com/ks2412/thexforce.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This article will focus on our solution to a problem statement put forth in [SMART INDIA HACKATHON](www.sih.gov.in). Thanks to several online electronic stores, building projects has never been easier. Almost everyone can now get their hands on different development boards, microcontrollers, circuit boards, and many more. Aside from that, there are many guides and instructional videos found online that can help you get started on any electronic project. This article will give a glimpse of work process and components description of the our Hackathon Winning Project.
 
 ### Markdown
 
