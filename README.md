@@ -1,6 +1,6 @@
 ## Welcome to THE X FORCE HALL OF PROJECTS!!!
 
-This article will focus on our solution to a problem statement put forth in [SMART INDIA HACKATHON](www.sih.gov.in). Thanks to several online electronic stores, building projects has never been easier. Almost everyone can now get their hands on different development boards, microcontrollers, circuit boards, and many more. Aside from that, there are many guides and instructional videos found online that can help you get started on any electronic project. This article will give a glimpse of work process and components description of the our Hackathon Winning Project.
+This article will focus on our solution to a problem statement put forth in [Smart India Hackathon 2020](https://www.sih.gov.in/). Thanks to several online electronic stores, building projects has never been easier. Almost everyone can now get their hands on different development boards, microcontrollers, circuit boards, and many more. Aside from that, there are many guides and instructional videos found online that can help you get started on any electronic project. This article will give a glimpse of work process and components description of the our Hackathon Winning Project.
 
 ### Markdown
 
